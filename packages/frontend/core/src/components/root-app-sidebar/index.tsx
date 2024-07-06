@@ -228,8 +228,8 @@ export const RootAppSidebar = memo(
           </div>
         </SidebarScrollableContainer>
         <SidebarContainer>
-          {environment.isDesktop ? <UpdaterButton /> : <AppDownloadButton />}
-          <div style={{ height: '4px' }} />
+          {/*{environment.isDesktop ? <UpdaterButton /> : <AppDownloadButton />}*/}
+          {/*<div style={{ height: '4px' }} />*/}
           <AddPageButton onClick={onClickNewPage} />
         </SidebarContainer>
       </AppSidebar>

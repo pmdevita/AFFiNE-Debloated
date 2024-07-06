@@ -91,7 +91,7 @@ export const TopTip = ({
 
   return (
     <BrowserWarning
-      show={showWarning}
+      show={false}
       message={<OSWarningMessage />}
       onClose={() => {
         setShowWarning(false);

@@ -1,3 +1,16 @@
+# Affine Debloated
+
+Affine is pretty cool but comes with several annoyances,
+so I forked it to remove them. Maybe it'll help you too.
+
+Stuff I removed
+- Shilling for Chrome
+- Shilling for AI
+
+
+# Original Readme
+
+
 <div align="center">
 
 <h1 style="border-bottom: none">
